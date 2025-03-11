@@ -1,3 +1,7 @@
 system/** linguist-vendored
 tests/** linguist-vendored
 writable/** linguist-vendored
+app/Config/** linguist-vendored
+app/Database/** linguist-vendored
+app/Language/** linguist-vendored
+app/ThirdParty/** linguist-vendored
