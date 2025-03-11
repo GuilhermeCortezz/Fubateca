@@ -1,7 +1,7 @@
-system/** linguist-vendored
-tests/** linguist-vendored
-writable/** linguist-vendored
-app/Config/** linguist-vendored
-app/Database/** linguist-vendored
-app/Language/** linguist-vendored
-app/ThirdParty/** linguist-vendored
+system/** linguagem-detectada=ignorada
+tests/** linguagem-detectada=ignorada
+writable/** linguagem-detectada=ignorada
+app/Config/** linguagem-detectada=ignorada
+app/Database/** linguagem-detectada=ignorada
+app/Language/** linguagem-detectada=ignorada
+app/ThirdParty/** linguagem-detectada=ignorada
