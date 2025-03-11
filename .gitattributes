@@ -1,0 +1,3 @@
+system/** linguist-vendored
+tests/** linguist-vendored
+writable/** linguist-vendored
